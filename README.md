@@ -1,2 +1,2 @@
-# Comfort Travels
-Comfort Travels
+# Travel Partner
+Travel Partner
